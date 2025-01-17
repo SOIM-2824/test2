@@ -3,6 +3,23 @@
   <img src="https://komarev.com/ghpvc/?username=username" />
 </div>
 
+<p align="left">
+  <a href="https://github.com/SOIM-2824">
+    <img height="20" src="https://komarev.com/ghpvc/?username=SOIM-2824" />
+  </a>
+  <a href="https://github.com/SOIM-2824">
+    <img height="20" src="https://img.shields.io/github/followers/SOIM-2824?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/SOIM-2824">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/SOIM-2824/posts.svg" />
+  </a>
+  <a href="http://qiita.com/SOIM-2824">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/SOIM-2824/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/SOIM-2824">
+    <img height="20" src="https://badgen.org/img/zenn/SOIM-2824/articles?style=plastic" />
+  </a>
+</p>
 
 
 
